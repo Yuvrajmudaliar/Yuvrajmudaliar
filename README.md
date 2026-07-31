@@ -18,10 +18,13 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Yuvrajmudaliar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Yuvrajmudaliar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yuvrajmudaliar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
